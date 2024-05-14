@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 4
 ---------------------
 ## csd4140 | Antonia Krasoudaki
 
@@ -31,6 +31,7 @@ In the Dockerfile the image python:slim-buster is being pulled. It updates downl
 At the path /app it copies the appropriate files and installs the requirements.
 Finally, the controller is running.
 ![1](task1/1.1.png)
+![1](task1/1.2.png)
 
 * b )
   
