@@ -30,6 +30,7 @@ docker push antoniakras/greeting-controller:latest
 In the Dockerfile the image python:slim-buster is being pulled. It updates downloads kubectl and installs it,
 At the path /app it copies the appropriate files and installs the requirements.
 Finally, the controller is running.
+![1](task1/1.1,png)
 
 * b )
   
