@@ -44,9 +44,12 @@ In the deployment CLusterRole we use * in rules to make sure that
 the right role and access is granted. ClusterRoleBinding references greeting-cluster-role 
 and binds it with service account. 
 
-In the screenshots it's visible that when the kubectl describe deployments command is executed, the data and messages are correct in each case. 
-![1](crds/1.png)
-![1](crds/2.png)
-![1](crds/3.png)
-![1](crds/4.png)  
-![1](crds/5.png)
+At the directory crd in the screenshots 1-5  it's visible that when the kubectl describe deployments command is executed, the data and messages are correct in each case. 
+
+
+  ### Task 3
+
+  * a )
+
+  * b )
+  
