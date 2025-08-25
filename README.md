@@ -1,7 +1,12 @@
 # Project Overview
 ---------------------
 
-Extended Kubernetes with Custom Resource Definitions (CRDs) and implemented a controller in Python inside a Docker container. Built and deployed webhook-based extensions, automated deployments across namespaces, and validated CRD management with kubectl. Published custom images to Docker Hub for controller and webhook service.
+## Project Overview
+This project extends Kubernetes functionality by implementing:
+- **Custom Resource Definitions (CRDs)** to introduce new Kubernetes resource types.
+- **Custom Controllers** to manage lifecycle events of these resources.
+- **Admission Webhooks** for validating and mutating requests before they reach the cluster.
+
 
 ## csd4140 | Antonia Krasoudaki
 
